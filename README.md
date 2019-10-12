@@ -6,3 +6,8 @@ Questions our project seeks to answer:
   3. What's the demographic makeup of homeowners in Colorado? By zipcode/county?
   4. Where are the most affordable neighborhoods in the Greater Denver Area?
   
+  
+  These are the jupyter notebooks that matter (the rest are drafts):
+  
+  Include write-up report:
+  
