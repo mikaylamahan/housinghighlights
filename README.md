@@ -10,7 +10,7 @@ Questions our project seeks to answer:
   These are the jupyter notebooks that matter (the rest are drafts):
   1. Lloriv's jupyter notebook titled "graph.py"--still needs to be added to this repository.
   2. Mikayla's jupter notebook titled "reading_censusdata_updatedwithgraph.ipynb". 
-  3. Ariel's jupyter notebooks titled "sales_by_county-checkpoint.ipynb" and "Median_House_Price-checkpoint.ipynb".
+  3. Ariel's jupyter notebooks titled "sales_by_county.ipynb" and "median_house_price_updated.ipynb".
  
 Conclusions:
   
